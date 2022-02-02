@@ -10,15 +10,6 @@ In this project we implement a 2 dimensional particle filter in C++. The particl
 The flowchart below should make the working of a Particle Filter a bit clearer.
 ![alt-text][image1]
 
-## Running the Code
-Once you have this repository on your machine, `cd` into the repository's root directory and run the following commands from the command line:
-
-```
-> ./clean.sh
-> ./build.sh
-> ./run.sh
-```
-
 ## Inputs to the Particle Filter
 You can find the inputs to the particle filter in the `data` directory. 
 
